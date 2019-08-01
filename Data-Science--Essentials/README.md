@@ -2,7 +2,7 @@
  
 # Data Science Cheatsheets
 
-List of Data Science Cheatsheets :
+List of Data Science Cheatsheets : Copyright Asif Bhat: abhat222
 
 ## Table of Contents
 - [Artificial Intelligence](https://github.com/FavioVazquez/ds-cheatsheets#artificial-intelligence)
