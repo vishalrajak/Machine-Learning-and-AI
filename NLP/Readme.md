@@ -10,5 +10,4 @@
 
 <h1><b>Project scope</h1></b>- Since its an pure NLP task project, avoiding the numeric features may impact the overall idea of determing employee satisfaction. This can be definately an update to this existing project (Coming soon!!!). Also various other methods of vectorization can be deployed to create a comparable study. 
 
-*The dataset is not been yet uploaded due to large size. It will be updated soon for reference*
 
