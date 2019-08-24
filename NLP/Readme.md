@@ -1,0 +1,14 @@
+<h1> <b>Satisfaction Decision Assessment factoring Employee Review Data.</h1></b>
+
+<h1><b>Description</h1></b>- Machine learning project that involved dataset of Employee feedback from various companies analyzed to obtain relevant information about the job satisfaction of the employee. Keywords- Natural Language Processing, Text classification, Supervised learning, Sentimental Analysis.
+
+<h1><b>Project details</h1></b> - Every company or firm has the employee feedback system where they get a mixed review among thousands of employees. Every employee has its own perception regarding the work environment, job satisfaction , promotions , salary hike etc. The idea behind implementing this project is to analyse the feedbacks of the employess specifically the feedback in form of "comments,summary,pros and cons" to determine whether the employee is satisfied with the current job or wasn't satisfied.
+
+<h1><b>Dataset description </h1></b>- Data under study is Employee feedback data which comprises of feedback of employees from companies such as Google, Microsoft, Amazon etc. The number of rows are more than 13k with features more than 12. It do consist of numeric rating features (rate 1-5) and 4 features related to verbal review. Identifying the satisfaction result based on numeric feedback makes it more biased and generic. There can be conflicts where employee can give a negative summary with better numeric ratings. Hence, verbal feedback must be the concern for such problems.The columns in dataset with verbal feedback are "summary","pros","cons","comments". Data also consist of feedbacks from former employees as well. Such information definately aids to the process of learning employee sentimentals towards company and work environment within the firm.
+                     
+<h1><b>Project Implementation</h1></b> - Since the concern is to evaluate verbal feedback for prediction, cleaning other columns are avoided. Thus ,its an Natural language processing task. Train and test split ratio is 30%. Library used is NLTK with some data transformation edits. Wordcloud based on specific company reviews is described to showcase the most generic things employees are concerned about. Data rows go through transformation such as stemming,lemmitization, POS transformation and token creation. Finally vectorization is performed and models are deployed for learning. 
+
+<h1><b>Project scope</h1></b>- Since its an pure NLP task project, avoiding the numeric features may impact the overall idea of determing employee satisfaction. This can be definately an update to this existing project (Coming soon!!!). Also various other methods of vectorization can be deployed to create a comparable study. 
+
+*The dataset is not been yet uploaded due to large size. It will be updated soon for reference*
+
