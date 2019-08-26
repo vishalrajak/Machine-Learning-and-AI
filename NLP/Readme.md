@@ -1,6 +1,6 @@
 <h1> <b>Satisfaction Decision Assessment factoring Employee Review Data.</h1></b>
 
-<h1><b>Description</h1></b>- Machine learning project that involved dataset of Employee feedback from various companies analyzed to obtain relevant information about the job satisfaction of the employee. Keywords- Natural Language Processing, Text classification, Supervised learning, Sentimental Analysis.
+<h1><b>Description</h1></b>- Machine learning project that involved dataset of Employee feedback from various companies analyzed to obtain relevant information about the job satisfaction of the employee. <b><i>Keywords- Natural Language Processing, Text classification, Supervised learning, Sentimental Analysis.</b></i>
 
 <h1><b>Project details</h1></b> - Every company or firm has the employee feedback system where they get a mixed review among thousands of employees. Every employee has its own perception regarding the work environment, job satisfaction , promotions , salary hike etc. The idea behind implementing this project is to analyse the feedbacks of the employess specifically the feedback in form of "comments,summary,pros and cons" to determine whether the employee is satisfied with the current job or wasn't satisfied.
 
